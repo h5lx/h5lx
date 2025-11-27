@@ -1,8 +1,9 @@
-## Olá, sou H5lx
+
+
 - Aprendendo Python e Javascript
 
 
-## Olá, sou H5lx e quero virar programador de bots do discord.
+## issaimemoparceiro.
 
 
 <div style="display: inline_block"><br>
